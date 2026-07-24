@@ -8,10 +8,6 @@ Welcome to my GitHub! I'm **Caleb Broussard**, a passionate developer creating A
 
 **LUMIN:** A production-ready multimodal AI assistant with voice, file, image, model routing, and continuous conversation capabilities (local and cloud LLM support).<br><br>
 
-**VocalScrub:** Voice-to-text typing tool.<br><br>
-
-**SpeakSee:** Voice-activated web/YouTube search tool.<br><br>
-
 🧑‍🤝‍🧑 **Looking to Collaborate On**<br><br>
 
 • Innovative AI and voice interface projects.<br>
