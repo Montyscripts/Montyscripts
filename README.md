@@ -48,7 +48,9 @@ I once built a voice-controlled typing assistant so I could dictate code while e
 
 ## 🌐 Socials:
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amongtheai@gmail.com)
+Questions, feedback, or issues?  
+
+**Email me:** [montyscriptsfeedback@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=montyscriptsfeedback@gmail.com)
 
 # 💻 Tech Stack:
 
