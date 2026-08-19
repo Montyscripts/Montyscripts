@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm **Caleb Broussard**, a passionate developer creating A
 
 🏗️ **Currently Working On**<br><br>
 
-**LUMIN:** A production-ready multimodal AI assistant with voice, file, image, model routing, and continuous conversation capabilities (local and cloud LLM support).<br><br>
+**LUMIN:** A multimodal AI assistant with voice, file, image, model routing, and continuous conversation capabilities (local and cloud LLM support).<br><br>
 
 🧑‍🤝‍🧑 **Looking to Collaborate On**<br><br>
 
