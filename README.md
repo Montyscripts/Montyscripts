@@ -1,32 +1,50 @@
-💫 About Me:
+# 💫 About Me:
 🚀 About Me<br>
-Welcome to my GitHub! I'm Caleb Broussard, a passionate developer creating AI-powered tools that enhance digital interactions. I specialize in building voice-enabled desktop applications, multimodal AI interfaces, and intelligent assistants focused on accessibility, productivity, and real-world usability.
+Welcome to my GitHub! I'm **Caleb Broussard**, a passionate developer creating AI-powered tools that enhance digital interactions. I specialize in building voice-enabled desktop applications, multimodal AI interfaces, and intelligent assistants focused on accessibility, productivity, and real-world usability.
+
 <br>
-🏗️ Currently Working On<br><br>
-LUMIN: A production-ready multimodal AI assistant with voice, file, image, model routing, and continuous conversation capabilities (local and cloud LLM support).<br><br>
-🧑‍🤝‍🧑 Looking to Collaborate On<br><br>
+
+🏗️ **Currently Working On**<br><br>
+
+**LUMIN:** A production-ready multimodal AI assistant with voice, file, image, model routing, and continuous conversation capabilities (local and cloud LLM support).<br><br>
+
+🧑‍🤝‍🧑 **Looking to Collaborate On**<br><br>
+
 • Innovative AI and voice interface projects.<br>
 • Open-source tools that make technology more accessible.<br>
 • Creative applications of multimodal AI.<br><br>
-🤝 Looking for Help With<br><br>
+
+🤝 **Looking for Help With**<br><br>
+
 • Optimizing real-time audio and video processing.<br>
 • Improving UI/UX for voice-enabled applications.<br>
 • Scaling AI applications for production environments.<br><br>
-🌱 Currently Learning<br><br>
+
+🌱 **Currently Learning**<br><br>
+
 • Advanced multimodal AI architectures.<br>
 • Real-time streaming optimizations.<br>
 • Voice interface design patterns.<br><br>
-💬 Ask Me About<br><br>
+
+💬 **Ask Me About**<br><br>
+
 • Building voice-controlled desktop applications.<br>
 • Integrating AI APIs into desktop software.<br>
 • Python desktop development with CustomTkinter.<br>
 • Local LLM integration and AI model routing.<br><br>
-⚡ Fun Fact<br>
+
+⚡ **Fun Fact**<br>
+
 I once built a voice-controlled typing assistant because I wanted to dictate code while eating pizza! 🍕
+
 ---
-🌐 Socials:
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
-💻 Tech Stack:
+
+## 🌐 Socials:
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amongtheai@gmail.com)
+
+# 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -56,21 +74,39 @@ I once built a voice-controlled typing assistant because I wanted to dictate cod
 ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
-📊 GitHub Stats:
+
+# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Montyscripts&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Montyscripts&theme=gruvbox&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Montyscripts&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Montyscripts&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-✍️ Random Dev Quote
+
+### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-🔝 Top Contributed Repository
+
+### 🔝 Top Contributed Repository
+
 ![](https://github-contributor-stats.vercel.app/api?username=Montyscripts&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
-![](https://visitcount.itsvg.in/api?id=Montyscripts&icon=2&color=3)
-💰 Support My Work
+
+[![](https://visitcount.itsvg.in/api?id=Montyscripts&icon=2&color=3)](https://visitcount.itsvg.in)
+
+## 💰 Support My Work
+
 If you enjoy my projects and would like to support future development, you can donate here:
-![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-Every contribution helps support the continued development of LUMIN and my other open-source AI projects. Thank you for your support! ❤️
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/calebbroussard181)
+
+Every contribution helps support the continued development of **LUMIN** and my other open-source AI projects. Thank you for your support! ❤️
+
 ---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
